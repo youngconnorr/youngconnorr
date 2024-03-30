@@ -1,4 +1,4 @@
-### Hey, I'm Connor!
+### Hey, I'm Connor! 👋
 I am a student at UBC studying Computer Science 💻
 
 Check out my most recent project 👇:
