@@ -4,7 +4,7 @@ I am a student at UBC studying Computer Science 💻
 Check out my most recent project 👇:
 - A [photography website](https://youngconnorr.github.io/photo-gallery/) showing my recent shots
 
-Feel free to connect with me on [Linkedin](www.linkedin.com/in/connor-youngg)!
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connor-youngg)!
 
 <!--
 **youngconnorr/youngconnorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
