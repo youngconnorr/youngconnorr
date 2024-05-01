@@ -5,10 +5,10 @@ Check out my most recent project 👇
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
 - A [photography website](https://youngconnorr.github.io/photo-gallery/) showing my recent shots
 
-Currently working on a React and Django project!
+Currently working on a React and Django project! 🔨
 
 
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connor-youngg)!
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connor-youngg)! 🙂
 
 <!--
 **youngconnorr/youngconnorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
