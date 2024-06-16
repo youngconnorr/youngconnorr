@@ -6,7 +6,7 @@ Check out of my portfolio website here 👉 [Portfolio Website](https://www.youn
 Currently working on a project called PathFinder using React, RESTful APIs, and OpenAI API 🔨
 
 Check out my recent projects 👇
-- A [fish-catching website game](https://gingershungry.netlify.app/) made for my girlfriends birthday
+- A [fish-catching website game](https://gingershungry.netlify.app/) made for my girlfriend's birthday
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
 - A [photography website](https://youngconnorr.github.io/photo-gallery/) showing my recent shots
 
