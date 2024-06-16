@@ -3,11 +3,13 @@ I am a student at UBC studying Computer Science 💻
 
 Check out of my portfolio website here 👉 [Portfolio Website](https://www.youngconnor.com)
 
-Check out my most recent project 👇
+Currently working on a project called PathFinder using React, RESTful APIs, and OpenAI API 🔨
+
+Check out my recent projects 👇
+- A [fish-catching website game](https://gingershungry.netlify.app/) made for my girlfriends birthday
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
 - A [photography website](https://youngconnorr.github.io/photo-gallery/) showing my recent shots
 
-Currently working on a project called PathFinder using React, RESTful APIs, and OpenAI API 🔨
 
 
 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connor-youngg)! 🙂
