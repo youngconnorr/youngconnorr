@@ -3,7 +3,8 @@ I am a student at UBC studying Computer Science 💻
 
 Check out of my portfolio website here 👉 [Portfolio Website](https://www.youngconnor.com)
 
-Currently working on a project called PathFinder using React, Django (RESTful APIs), and OpenAI API 🔨
+Currently working:
+A project called PathFinder using React, Django (RESTful APIs), and OpenAI API 🔨
 
 Check out my recent projects 👇
 - A [fish-catching website game](https://gingershungry.netlify.app/) made for my girlfriend's birthday
