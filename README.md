@@ -8,7 +8,7 @@ Currently working on:
 - Learning DevOps for deploying project (AWS, Docker)
 
 Check out my recent projects 👇
-- A [fish-catching website game](https://gingershungry.netlify.app/) made for my girlfriend's birthday
+- A [cake-catching website game](https://gingershungry.netlify.app/) made for my girlfriend's birthday
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
 - A [photography website](https://cyoungphotos.netlify.app) showing my recent shots
 
