@@ -8,7 +8,7 @@ Currently working on a project called PathFinder using React, RESTful APIs, and 
 Check out my recent projects 👇
 - A [fish-catching website game](https://gingershungry.netlify.app/) made for my girlfriend's birthday
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
-- A [photography website](https://youngconnorr.github.io/photo-gallery/) showing my recent shots
+- A [photography website](https://cyoungphotos.netlify.app) showing my recent shots
 
 
 
