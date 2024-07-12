@@ -5,10 +5,9 @@ Check out of my portfolio website here 👉 [Portfolio Website](https://www.youn
 
 Currently working on:
 - A project called PathFinder using React, Django (RESTful APIs), and OpenAI API 🔨
-- Learning DevOps for deploying project (AWS, Docker)
+- Learning DevOps for deploying projects (AWS, Docker)
 
 Check out my recent projects 👇
-- A [cake-catching website game](https://chelsea-needs-cake.netlify.app/) made for my girlfriend's birthday
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
 - A [photography website](https://cyoungphotos.netlify.app) showing my recent shots
 
