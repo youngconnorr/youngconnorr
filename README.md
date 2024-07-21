@@ -8,7 +8,7 @@ Currently working on:
 - Learning DevOps for deploying projects (AWS, Docker)
 
 Check out my recent projects 👇
-- A [AI Travel Helper](https://github.com/youngconnorr/PathFinder/) generating itineraries for unsure travellers
+- An [AI Travel Helper](https://github.com/youngconnorr/PathFinder/) generating itineraries for unsure travellers
 - A [mental health website](https://mindfit.netlify.app/) made during youCode 2024 hackathon
 - A [photography website](https://cyoungphotos.netlify.app) showing my recent shots
 
