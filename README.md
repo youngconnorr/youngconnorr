@@ -1,10 +1,10 @@
 ### Hey, I'm Connor! 👋
 
-I am a student at UBC studying Computer Science 💻
+🎓 UBC studying Computer Science
 
-Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
+👉 Check out the Portfolio [Portfolio Website](https://www.youngconnor.com)
 
-Currently working on:
+🔨 Currently working on:
 - A stock analyzer using **Python**, **Pandas**, and the **Yahoo Finance API** 💰📈
 - Focusing on the **Software Development Life Cycle** (SDLC)
   -  **GitHub Actions** 🚀 
@@ -12,7 +12,7 @@ Currently working on:
   -  **AWS** 📡
   -  **Docker** 🐋
 
-Check out my recent projects 👇
+🏆 Check out my recent projects:
 - An [AI Travel Helper](https://github.com/youngconnorr/PathFinder/) generating itineraries for unsure travellers ✈️
   - **React** | **Django** | **PostgreSQL** | **OpenAI API** | **CSS**
 - A [Mental Health and Exercise Provider](https://mindfit.netlify.app/) made during youCode 2024 hackathon 🏋️
