@@ -1,6 +1,8 @@
-### Hey, I'm Connor! 👋 [Portfolio Website](https://www.youngconnor.com)
+### Hey, I'm Connor! 👋
 
 I am a student at UBC studying Computer Science 💻
+
+Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
 
 Specialized in: React | Python | Java
 
