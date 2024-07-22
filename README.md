@@ -1,5 +1,6 @@
 ### Hey, I'm Connor! 👋
 I am a student at UBC studying Computer Science 💻
+
 Specialized in: React | Python | Java
 
 Check out of my portfolio website here 👉 [Portfolio Website](https://www.youngconnor.com)
