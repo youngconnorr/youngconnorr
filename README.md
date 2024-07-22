@@ -2,6 +2,8 @@
 
 Currently at UBC studying Computer Science 🎓 
 
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connor-youngg)! 🙂
+
 Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
 
 ### Currently working on: 
@@ -21,8 +23,6 @@ Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
   - **Java** | **JSON** | **JUnit** | **Java Swing**  
 
 
-
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/connor-youngg)! 🙂
 
 <!--
 **youngconnorr/youngconnorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
