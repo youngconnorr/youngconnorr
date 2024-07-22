@@ -5,7 +5,12 @@ Check out of my portfolio website here 👉 [Portfolio Website](https://www.youn
 
 Currently working on:
 - A stock analyzer using Python, Pandas, and the yfinance library to utilize the Yahoo Finance API 💰📈
-- Learning DevOps for deploying projects (AWS, Docker) 📡🐋
+- With this new project I am focusing on completing the SDLC
+  - Thus I am learning:
+  -  GitHub Actions 🚀
+  -  PyTest ✅
+  -  AWS 📡
+  -  Docker 🐋
 
 Check out my recent projects 👇
 - An [AI Travel Helper](https://github.com/youngconnorr/PathFinder/) generating itineraries for unsure travellers ✈️
