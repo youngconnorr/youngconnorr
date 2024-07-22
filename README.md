@@ -4,13 +4,11 @@ I am a student at UBC studying Computer Science 💻
 
 Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
 
-Specialized in: React | Python | Java
-
 Currently working on:
-- A stock analyzer using **Python**, **Pandas**, and **Yahoo Finance API** 💰📈
-- With this new project I am focusing on completing the **Software Development Life Cycle** (SDLC)
-  -  **GitHub Actions** 🚀
-  -  **PyTest** ✅
+- A stock analyzer using **Python**, **Pandas**, and the **Yahoo Finance API** 💰📈
+- Focusing on the **Software Development Life Cycle** (SDLC)
+  -  **GitHub Actions** 🚀 
+  -  **PyTest** ✅ 
   -  **AWS** 📡
   -  **Docker** 🐋
 
