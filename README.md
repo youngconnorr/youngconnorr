@@ -14,15 +14,11 @@ Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
   -  **AWS** 📡
   -  **Docker** 🐋
 
-<!--
 ### Check out my recent projects:
 - An [AI Travel Helper](https://github.com/youngconnorr/PathFinder/) generating itineraries for unsure travellers ✈️
   - **React** | **Django** | **PostgreSQL** | **OpenAI API** | **CSS**
-- A [Mental Health and Exercise Provider](https://mindfit.netlify.app/) made during youCode 2024 hackathon 🧠
-  - **React** | **Firebase** | **Git** | **CSS**
 - A [Gym Progress Tracker](https://github.com/youngconnorr/Liftify)) showing my recent shots 🏋️
   - **Java** | **JSON** | **JUnit** | **Java Swing**  
--->
 
 
 
