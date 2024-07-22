@@ -7,9 +7,8 @@ Check out the Portfolio 👉 [Portfolio Website](https://www.youngconnor.com)
 Specialized in: React | Python | Java
 
 Currently working on:
-- A stock analyzer using **Python**, **Pandas**, and the yfinance library to utilize the Yahoo Finance API 💰📈
+- A stock analyzer using **Python**, **Pandas**, and **Yahoo Finance API** 💰📈
 - With this new project I am focusing on completing the **Software Development Life Cycle** (SDLC)
-  - Thus I am learning:
   -  **GitHub Actions** 🚀
   -  **PyTest** ✅
   -  **AWS** 📡
