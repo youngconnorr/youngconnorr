@@ -1,9 +1,8 @@
-### Hey, I'm Connor! 👋
+### Hey, I'm Connor! 👋 [Portfolio Website](https://www.youngconnor.com)
+
 I am a student at UBC studying Computer Science 💻
 
 Specialized in: React | Python | Java
-
-Check out of my portfolio website here 👉 [Portfolio Website](https://www.youngconnor.com)
 
 Currently working on:
 - A stock analyzer using **Python**, **Pandas**, and the yfinance library to utilize the Yahoo Finance API 💰📈
