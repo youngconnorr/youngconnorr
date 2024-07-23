@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on [Stock Scout](https://github.com/youngconnorr/python-stock-analyzer/)
 - 🌱 I’m currently learning **Pandas** 🐼 | **AWS** 📡| **Docker** 🐋
-- 👨‍💻 You can find all my projects at [Portfolio Website](https://www.youngconnor.com)
+- 👨‍💻 You can find all my projects at https://www.youngconnor.com
+- 📧 Reach out to me for projects conryoung4@gmail.com
 - ⚡ Fun fact: I play tier 1 Volleyball 💥
 
 ### Feel free to connect with me:
