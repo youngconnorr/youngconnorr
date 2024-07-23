@@ -23,7 +23,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,django,git,postgres,nodejs,firebase,mongodb,tailwind,docker&perline=7)](https://github.com/youngconnorr/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=youngconnorr)](https://git.io/streak-stats)
 <!--
+
+For the icons:
+
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file
+
+
+
+
 - A stock analyzer using **Python**, **Pandas**, and the **Yahoo Finance API** 💰📈
 - Focusing on the **Software Development Life Cycle** (SDLC)
   -  **GitHub Actions** 🚀 
@@ -40,7 +49,6 @@
 -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=youngconnorr)](https://git.io/streak-stats)
 
 <!--
 **youngconnorr/youngconnorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
