@@ -1,5 +1,7 @@
 # Hey, I'm Connor! 👋
 
+![Personal Banner](https://github.com/user-attachments/assets/b3219d16-7a5c-4030-afb4-96477ed3d7a5)
+
 ### I am a student at UBC studying Computer Science! I'm passionate about building innovative software that positively impacts the world !🎓 
 
 - 🔭 I’m currently working on [Stock Scout](https://github.com/youngconnorr/python-stock-analyzer/)
