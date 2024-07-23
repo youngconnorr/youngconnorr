@@ -12,7 +12,7 @@
 
 ### Feel free to connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](Www.linkedin.com/in/connor-youngg)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/conryoung)
 
 
 ### Languages and Tools:
