@@ -1,4 +1,4 @@
-# Hey, I'm Connor! 👋
+# Hey, I'm Connor! 👋👨🏻‍💻
 
 ![Personal Banner](https://github.com/user-attachments/assets/b3219d16-7a5c-4030-afb4-96477ed3d7a5)
 
@@ -11,7 +11,7 @@
 
 ### Feel free to connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connor-youngg)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](Www.linkedin.com/in/connor-youngg)
 
 
 ### Languages and Tools:
