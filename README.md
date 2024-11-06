@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,django,git,postgres,nodejs,firebase,mongodb,tailwind,docker&perline=7)](https://github.com/youngconnorr/)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,c,java,html,css,django,git,nodejs,firebase,tailwind,docker&perline=7)](https://github.com/youngconnorr/)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=youngconnorr)](https://www.linkedin.com/in/conryoung)
