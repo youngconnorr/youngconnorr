@@ -1,10 +1,14 @@
 # Hey, I'm Connor! 👋👨🏻‍💻
-
+<!--
 [![Personal Banner](https://github.com/user-attachments/assets/b3219d16-7a5c-4030-afb4-96477ed3d7a5)](https://www.linkedin.com/in/conryoung)
+-->
+<!--
 <h3 align="center">
+-->
+<h3>
  <b>I'm a student at UBC studying Computer Science🎓</b>
 </h3>
-<h3 align="center">
+<h3>
  <b> Passionate about building innovative software that positively impacts the world! </b>
 </h3>
 
