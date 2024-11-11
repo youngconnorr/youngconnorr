@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Advizr](https://github.com/romansinkus/advizr/)
 - 🌱 I’m currently learning **Pandas** 🐼 | **AWS** 📡| **Docker** 🐋
-- 👨‍💻 You can find all my projects at [https://www.youngconnor.com](https://github.com/romansinkus/advizr/](https://www.youngconnor.com))
+- 👨‍💻 You can find all my projects at [https://www.youngconnor.com](https://youngconnor.com)
 - 📧 Reach out to me for projects conryoung4@gmail.com
 - ⚡ Fun fact: I play tier 1 Volleyball 💥
 
