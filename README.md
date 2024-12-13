@@ -13,15 +13,14 @@
 </h3>
 
 - 🔭 I’m currently working on [Advizr](https://github.com/romansinkus/advizr/)
-- 🌱 I’m currently learning **Pandas** 🐼 | **AWS** 📡| **Docker** 🐋
 - 👨‍💻 You can find all my projects at [https://www.youngconnor.com](https://youngconnor.com)
 - 📧 Reach out to me for projects conryoung4@gmail.com
-- ⚡ Fun fact: I play tier 1 Volleyball 💥
 
+<!--
 ### Feel free to connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/conryoung)
-
+-->
 
 ### Languages and Tools:
 
