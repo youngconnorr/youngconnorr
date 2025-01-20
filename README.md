@@ -9,8 +9,6 @@
  <b>Student at UBC studying Computer Science🎓</b>
 </h3>
 
-
-- 🔭 I’m currently working on [Advizr](https://github.com/romansinkus/advizr/)
 - 👨‍💻 You can find all my projects at [https://www.youngconnor.com](https://youngconnor.com)
 - 📧 Reach out to me for projects conryoung4@gmail.com
 
