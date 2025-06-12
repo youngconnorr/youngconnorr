@@ -9,8 +9,9 @@
  <b>Student at UBC studying Computer Science🎓</b>
 </h3>
 
+<!--
 - 👨‍💻 You can find all my projects at [https://www.youngconnor.com](https://youngconnor.com)
-
+-->
 <!--
 ### Feel free to connect with me:
 
