@@ -6,7 +6,7 @@
 <h3 align="center">
 -->
 <h3>
- <b>Student at UBC studying Computer Science🎓</b>
+ <b>Student at UBC studying Cognitive Systems🎓</b>
 </h3>
 
 <!--
