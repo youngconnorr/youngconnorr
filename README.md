@@ -19,8 +19,8 @@
 -->
 
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,c,java,html,css,django,git,nodejs,firebase,tailwind,docker&perline=7)](https://github.com/youngconnorr/)
+<!-- ### Languages and Tools: -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,c,java,html,css,django,git,nodejs,firebase,tailwind,docker&perline=7)](https://github.com/youngconnorr/) -->
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=youngconnorr)](https://www.linkedin.com/in/conryoung)
