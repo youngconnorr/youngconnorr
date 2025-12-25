@@ -5,7 +5,7 @@
 <!--
 <h3 align="center">
 -->
-🎓 I'm a third-year student at UBC in <b> Cognitive Systems.</b>
+I'm a third-year student at UBC in <b> Cognitive Systems.</b>
 
 <h2>Languages & Tools (Tech Stack)</h2>
 <ul>
